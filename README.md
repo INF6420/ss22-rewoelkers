@@ -1,2 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cSGmFTKd)
 # INF 6420 - Intro to Web Development
+I will be creating a website for my classroom, hopefully to use next year. I will have multiple pages. The first wireframe is the idea for the main page. The second wireframe would include general updates, important dates, and our class photo link. The third would be the start for subjects, so probably about math. Including what we are working on, upcoming test dates, and helpful websites.

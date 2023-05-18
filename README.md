@@ -27,7 +27,7 @@
 
 <p> Main Content: The main content would house all of the general updates. If there are things students need to bring to school or other small reminders. </p>
 
-<p> Navigation Menu: The navigation menu would give the families a chance to go to the other parts of the website like the main page, contact page, and subject pages. </p>
+<p> Navigation Menu: The navigation menu would give the families a chance to go to the other parts of the website like the main page, contact page, contact, and subject pages. </p>
 
 <p> Footer: Again, the footer would keep my email, as that is the most popular way for families to contact me. </p>
 

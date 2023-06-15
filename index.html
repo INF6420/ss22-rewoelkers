@@ -4,11 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ms. Woelkers' Classroom</title>
+    <link rel= "stylesheet" href= "Style.css"> 
 </head>
 <body>
     <header> 
-        <nav>
-            <ul> 
+        <nav class="main-menu">
+            <a href="index.html" class="site-name"><img src="" alt="Ms. Woelkers' Classroom"></a>
+            <input class="menu-btn" type="checkbox" id="menu-btn" />
+            <label class="menu-icon" for="menu-btn"> <span class="navicon" aria-label="Toggle for menu"> </span></label>
+            <ul class="main-nav"> 
                 <li> <a href="Curriculum.html"> Curriculum </a></li>
                 <li> <a href="Calendar.html"> Calendar </a></li>
                 <li> <a href="Contact.html"> Contact </a></li>
@@ -16,16 +20,17 @@
         </nav>
     </header>
 <main> 
-    <div><img src= "Images/Classroom.jpeg" alt ="Window with growth mindset poster"></div>
-    <div> This is where my main content will go. I will need a header and a paragraph.</div>
+    <div class="featured-image-container"><img src= "Images/Classroom.jpeg" alt ="Window with growth mindset poster"></div>
     <div> 
-        <h1> Welcome to Ms. Woelkers' Virtual Classroom</h1>
-        <p> This is were all of the information you will need will be held! </p>
+        <h1> Welcome to Ms. Woelkers' Virtual Classroom!</h1>
+        <p> Thank you for visiting our class website! This is where I will post updates and information. Outside of our weekly School Messenger newsletters that I send, this will be the place to find any updates. If you cannot find the answer you need, please do not hesitate to email me. </p>
     </div>
 </main>
 </body>
 <footer> 
+    <div class="footer-column">
     <h1> More information</h1>
     <p> Anything else you cannot find here, can probably be found at LOCS's page. It houses all of our curriculum, calendars, menus, and more.</p>
+    </div>
 </footer>
 </html>
